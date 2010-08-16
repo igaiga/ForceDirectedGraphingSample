@@ -1,0 +1,26 @@
+      #frame {
+      }
+
+      #origin {
+        position: absolute;
+        width: 14px;
+        height: 14px;
+        left:10px;
+        top:10px;
+        font-size: 11px;
+        text-align: center;
+        -moz-border-radius: 14px;
+z-Index:100;
+      }
+
+      td {
+        font-size: 11px;
+        font-family: Verdana, sans;
+        text-align: center;
+      }
+
+      p {
+        font-family: Verdana, sans;
+        font-size: 10px;
+      }
+
